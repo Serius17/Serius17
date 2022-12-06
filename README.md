@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Laravel, Vue Js**
 
-- 💬 Ask me about **FRONT END WEB**
+- 💬 Ask me about **WEB DEVELOPER**
 
 - 📫 How to reach me **seriusharefa17@gmail.com**
 
