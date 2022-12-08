@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serius Harefa</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate frontend web developer from Indonesia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.kibrispdr.org/data/1750/akuntansi-kartun-29.gif">
 
